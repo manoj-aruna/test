@@ -1,0 +1,3 @@
+int number;
+str letter;
+
